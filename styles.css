@@ -1,0 +1,179 @@
+html{
+    font-family: niveau-grotesk, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: white;
+    
+}
+
+body{
+    background: linear-gradient( to bottom, #3498db, #2ecc71);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.header{
+    
+    text-align: center;
+    font-size:75px;
+}
+
+.line{
+    list-style: bold;
+}
+
+.title2{
+     text-align: center;
+     font-size:50px;
+}
+
+.thefont{
+    text-align: center;
+}
+
+.title3{
+    text-align:center;
+}
+
+.paragraph1{
+    text-align: center;
+}
+
+.abc{
+    text-align:center;
+    font-size: 100px;
+}
+
+.lowercase{
+    text-align:center;
+    font-size: 100px;
+}
+
+.num{
+    text-align:center;
+    font-size: 100px;
+}
+
+.symbol{
+    text-align:center;
+    font-size: 100px;
+}
+
+.character{
+    text-align: center;
+    font-size:60px;
+}
+
+.display{
+    text-align: center;
+}
+
+.E{
+    font-size: 75px;
+    text-align: right;
+}
+
+.e{
+    font-size: 75px;
+    text-align: left;
+}
+
+.F{
+    font-size: 75px;
+    text-align: right;
+}
+
+.f{
+    font-size: 75px;
+    text-align: left;
+}
+
+.B{
+    font-size: 75px;
+    text-align: left;
+}
+
+.b{
+    font-size: 75px;
+    text-align: right;
+}
+
+.experiments{
+    text-align: center;
+    font-size: 50px;
+}
+
+.ssd{
+    text-align: center;
+    font-size: 70px;
+
+}
+
+.tech{
+    text-align: center;
+    font-size: 60px;
+}
+
+.future{
+    text-align: center;
+    font-size: 50px;
+
+}
+
+
+.exp{
+    text-align:center;
+}
+
+.paragraphs{
+    font-size: 100px;
+    text-align: center;
+}
+
+.p1{
+    font-size: 60px;
+    text-align:left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.gradient-text{
+    font-size: 75px;
+    background: linear-gradient (to right, #3498db, #2ecc71);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    transition: 0.3s ease; 
+}
+
+.gradient-text:hover{
+    background: transparent;
+    color: #3498db;
+}
+
+
+
+
